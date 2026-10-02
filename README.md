@@ -165,6 +165,4 @@ Escape is the reliable back key.
 
 Game creators: **ABIR AL ARHAM CHOWDHURY** and **HABIB UN NABI SEJAN**.
 
-The in-game credits screen currently contains placeholder `XXXX` entries
-for image/sprite and music credits. Replace those placeholders with the
-appropriate attributions before publishing or distributing the game.
+## THANKS FOR PLAYING
